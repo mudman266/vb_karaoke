@@ -1,0 +1,13 @@
+C:\School\CSC-139\Chapter7\Karaoke\bin\Debug\Karaoke.exe.config
+C:\School\CSC-139\Chapter7\Karaoke\bin\Debug\Karaoke.exe
+C:\School\CSC-139\Chapter7\Karaoke\bin\Debug\Karaoke.pdb
+C:\School\CSC-139\Chapter7\Karaoke\bin\Debug\Karaoke.xml
+C:\School\CSC-139\Chapter7\Karaoke\obj\Debug\Karaoke.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter7\Karaoke\obj\Debug\Karaoke.frmMain.resources
+C:\School\CSC-139\Chapter7\Karaoke\obj\Debug\Karaoke.Resources.resources
+C:\School\CSC-139\Chapter7\Karaoke\obj\Debug\Karaoke.SplashScreen.resources
+C:\School\CSC-139\Chapter7\Karaoke\obj\Debug\Karaoke.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter7\Karaoke\obj\Debug\Karaoke.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter7\Karaoke\obj\Debug\Karaoke.exe
+C:\School\CSC-139\Chapter7\Karaoke\obj\Debug\Karaoke.xml
+C:\School\CSC-139\Chapter7\Karaoke\obj\Debug\Karaoke.pdb
